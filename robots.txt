@@ -1,0 +1,4 @@
+User-agent:*
+Allow:/
+
+sitemap:https://sreypintaing-droid.github.io/Website_Shop/sitemap.xml
